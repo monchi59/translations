@@ -41,7 +41,7 @@ return array (
   'Nous sommes actuellement dans une phase d\'étude pour notre projet de drone civil, nous rassemblons les ressources afin de relever, au service de l\'homme, des défis passionnants tels que le secours et le support civil.' => 'We are currently in a planning phase for our civil drone project, we are collecting ressources in order to meet amazing challenges like rescue and civil support.',
   'Appel à projet' => '__Appel à projet',
   'Vous êtes un étudiant, une entreprise, une association, un passionné et avez un besoin ou un projet à nous proposer, contactez nous !' =>  'You are a student, business, association, an enthusiast and you need something or have a project you need help with, contact us !',
-  'Chef de projet - Développeur informatique' => 'Project manager-Software developper'
+  'Chef de projet - Développeur informatique' => 'Project manager-Software developper',
   'Développeur électronique' => 'Electronics Developper',
   'Développeur informatique' => 'Software developper',
   'Notre projet vous intéresse ?' => 'Our projects interests you?',
@@ -54,7 +54,7 @@ return array (
   'Ainsi, en France, le CNES, avec le programme JANUS, a initié dans une dizaine d\'universités et grandes écoles françaises le développement de nano-satellites Cubsat.' =>  'This way, in France, the CNES, with the JANUS program, initiated with a dozen universities and school the development of Cubsat nano-satellites.',
   'Les missions vont de la démonstration de technologies dans l\'environnement spatial, à la réalisation d\'expériences au service de la science fondamentale !' => 'Missions vary from space environment technology demo to experiences realisation in fundamental science !',
   'Le projet station sol s’inscrit dans l’orientation technologique et spatiale de l’association Laïka et en complémentarité avec le projet de carte embarquée. Nous développons une station de communication radio capable d’échanger des données avec des nano satellites en orbite basse. Nous souhaitons mettre en commun notre station avec d\'autres stations Nano-satellites afin d\'élargir le champs des possibles.' => 'The ground station project works in favor of technology and space orientation in the Laïka association, completing the on board card project. We are developing a radio communication station able to exchange data with orbital nano-satellites in order to enlarge the field of possibilities',
-  '&Eacute;quipe' => 'Team,'
+  '&Eacute;quipe' => 'Team',
   'Chef de projet - Développeur électronique' => 'Project manager- Electronics developper',
   'Resonateur' => 'Resonator',
   'Carte électronique' => 'Electronic card',
